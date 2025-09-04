@@ -46,8 +46,8 @@ My name is Viktoriia. I`m from Ukraine.<br>🎓 Education – Completed a Fullst
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=stilistica&show_icons=true&count_private=true&theme=neon&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=stilistica&layout=compact&hide_border=true&theme=neon&bg_color=00000000&langs_count=10&hide=c,meson,makefile,m4&exclude_repo=github-readme-stats,BitJanitor,github-activity-readme,fancy-git,challengeBot" alt="stilistica's Top Languages">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=stilistica&theme=neon&hide_border=true&background=FFFFFF00">
-  <br/>
+<!--   <img src ="https://github-readme-streak-stats.herokuapp.com?user=stilistica&theme=neon&hide_border=true&background=FFFFFF00">
+  <br/> -->
   
 </p>
 
